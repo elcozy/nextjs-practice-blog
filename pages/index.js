@@ -37,10 +37,7 @@ export default function Home({ allPostsData }) {
           Hi, I am <b>Reynolds</b>, I'm a Mechanical Engineer and a Web
           Developer.
         </p>
-        <p>
-          (This is a sample website - you’ll be building a site like this on{" "}
-          <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
-        </p>
+        <p> This site was built while learning the NEXT.js framework</p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
         <h2 className={utilStyles.headingLg}>Blog</h2>
